@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-pwa-7b1e0": {
+      "hosting": {
+        "tic-tac-pwa": [
+          "tic-tac-pwa-7b1e0"
+        ]
+      }
+    }
+  }
+}
